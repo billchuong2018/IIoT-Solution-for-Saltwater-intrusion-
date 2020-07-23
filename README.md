@@ -27,32 +27,56 @@ A basic GitHub repository example for Call for Code submissions and those projec
 
 ### What's the problem?
 
-Saltwater intrusion with a salinity rate of four grammes per litter is expected to enter 50-95 kilometers deep into the delta’s main rivers 
+1) The real-world problem you identified
 
-Example : Can Tho City ( Viet Nam )  is nearly 100 kilometer from the sea. read 3,500 parts per thousand (ppt), normal water of less than 250 ppt.
+- Saltwater intrusion rises from downstream from 10 km to 200 km
+
+- Farmer does not know and they use river water to feed the rice field and fruit field, then the big damage to field and fruit
+
+- A lot of Hydropower plant in upstream and water reservoir to keep the water in upstream with impact more than 10 millions water in Mekong Delta 
+
+2) PROBLEM 1 : SALTWATER INTRUSION DURING DEC – JUNE AT VIET NAM EVERY YEAR
+
+- Saltwater intrusion with a salinity rate of four grammes per litter is expected to enter 50-95 kilometers deep into the delta’s main rivers 
+
+- Example : Can Tho City ( Viet Nam )  is nearly 100 kilometer from the sea. read 3,500 parts per thousand (ppt), normal water of less than 250 ppt.
  
-On 2016, 600,000 people lost access to freshwater, while 160,000 hectares of paddy were destroyed and 800,000 tons of rice were lost. Financial damage from that drought hit US$237 million
+- On 2016, 600,000 people lost access to freshwater, while 160,000 hectares of paddy were destroyed and 800,000 tons of rice were lost. Financial damage from that drought hit US$237 million
+
+3) PROBLEM 2 : ABSENCE OF FLOOD WATER AND LACK OF WATER IN HOT SEASON 
+
+- Mekong Delta region have had to struggle with the absence of flood waters.
+
+- When annual flooding does not happen or when it’s late, cropping and fishing activities in the Mekong Delta are disrupted.
+
+- Upstream countries have sought to store water in their dams
+
 
 Link of damage picture 
 
 
 ### How can technology help?
 
-Schools and teachers can continue to engage with their students through virtual classrooms, and even create interactive spaces for classes. As parents face a new situation where they may need to homeschool their children, finding appropriate online resources is important as well.
+- Measure the Seawater intrusion contain in Water and put this value in Monitoring. Then sending the alarm to Farm 
+
+- Setting the automation function from River Pump to switch to River Water  Treatment station or Well pump station
+
+- Compare the water contain with experience data from Senior Farmer OR predict data by machine learning for Seawater intrusion contain 
+
 
 ### The idea
 
-This IIoT solution aims to help farmers, particularly those in adapting climate change, monitor saltwater intrusion data and adapt their crop strategies to optimize water usage. Beside that we will use automation irrigation when they saltwater intrusion is over permission than the pump will switch on from river pump to Saltwater treatment pump to save the water and protect the crop   
+- This IIoT solution aims to help farmers, particularly those in adapting climate change, monitor saltwater intrusion data and adapt their crop strategies to optimize water usage. Beside that we will use automation irrigation when they saltwater intrusion is over permission than the pump will switch on from river pump to Saltwater treatment pump to save the water and protect the crop   
 
-Climate change with sea water rising and keeping the water for  Hydropower Plant and Reservoir of upstream countries are causing farmers to reconsider the crops by alarm of saltwater intrusion water level and automation irrigation, but they are aware of what crops will have a big damage in the new circumstances, according to the changing water availability. 
+- Climate change with sea water rising and keeping the water for  Hydropower Plant and Reservoir of upstream countries are causing farmers to reconsider the crops by alarm of saltwater intrusion water level and automation irrigation, but they are aware of what crops will have a big damage in the new circumstances, according to the changing water availability. 
 
-Awareness and education of suitable IoT solution with IBM Service in order to make the farmer to reduce the loss  with a good yield, will help farmers make water-friendly choices and control the loss of their crop.
+- Awareness and education of suitable IoT solution with IBM Service in order to make the farmer to reduce the loss  with a good yield, will help farmers make water-friendly choices and control the loss of their crop.
 
-To achieve these goals we propose the creation of a framework full IIoT solution from IBM Cloud Service and Maple Smart Control full solution to create solutions focused on MONITOR AND CONTROL saltwater intrusion and automation irrigation for farmers affected by climate change around the world. 
+- To achieve these goals we propose the creation of a framework full IIoT solution from IBM Cloud Service and Maple Smart Control full solution to create solutions focused on MONITOR AND CONTROL saltwater intrusion and automation irrigation for farmers affected by climate change around the world. 
 
-The framework will also target the Agricultural and Aquaculture sectors, also known as IIoT technology for real time and automation control as well as applying the experiences from senior farmers data for Machine Training or predict saltwater instruction when we have enough data for Machine Learning .
+- The framework will also target the Agricultural and Aquaculture sectors, also known as IIoT technology for real time and automation control as well as applying the experiences from senior farmers data for Machine Training or predict saltwater instruction when we have enough data for Machine Learning .
 
-We intend to do the pilot project at 3 points at Mekong Delta with this solution in order to reduce the damage for farmer on 2021. We need the support from IBM and UN for this project will come true.
+- We intend to do the pilot project at 3 points at Mekong Delta with this solution in order to reduce the damage for farmer on 2021. We need the support from IBM and UN for this project will come true.
 
 
 ## Demo video
@@ -63,12 +87,35 @@ We intend to do the pilot project at 3 points at Mekong Delta with this solution
 
 ![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
 
-1. The user navigates to the site and uploads a video file.
-2. Watson Speech to Text processes the audio and extracts the text.
-3. Watson Translation (optionally) can translate the text to the desired language.
-4. The app stores the translated text as a document within Object Storage.
+1) Deployed Node-RED Application to IBM Cloud
+
+2) Connected water sensors to Watson IoT Platform
+
+3) Stored water quality data in IBM Cloudant database
+
+4) Display Water Basin maps using Node-RED Dashboard
+
+5) Plot water quality data in Node-RED charts
+
+6) Alert farmers on high water salinity levels
+
+7) Automatic Switch transfer from River pump to Water Treatment pump when the Saltwater intrusion meet the over permission  
+
 
 ## Long description
+
+1) Explains why it's better than any existing solution
+
+- At the moment, they have no solution as Mekong Delta at Viet Nam without this system
+
+2) We can reduce the damage for 600,000 people lost access to freshwater, while 160,000 hectares of paddy were destroyed and 800,000 tons of rice were lost. Financial damage from that drought hit US$237 million
+
+3) AT PER TARGET OF CALL FOR CODE 2020 
+
+3.1)  Water sustainability: Maple Smart Control (MSC) will use the Automation Irrigation for when the saltwater intrusion contain is over permission than the pump will automation will switch from river pump to water treatment pump . This IoT-based solution aims to help farmers, particularly those in, monitor saltwater intrusion data and adapt their crop strategies to optimize water usage and save the water treatment material  
+
+3.2) Disaster resiliency: MSC will use the monitor system for saltwater intrusion contain in branch river in hot season at Viet Nam during Dec – June in every years in order to help communities prepare for saltwater intrusion, this app will provide residents with real-time information on the capacity of saltwater intrusion contain
+
 
 [More detail is available here](DESCRIPTION.md)
 
@@ -160,8 +207,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Bill Chuong ** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Bill Chuong ** - *Initial work* - 
+
 https://www.linkedin.com/in/bill-chuong-a8245236/
+
 https://twitter.com/sumosumi04
 
 
