@@ -27,7 +27,14 @@ A basic GitHub repository example for Call for Code submissions and those projec
 
 ### What's the problem?
 
-Part of the World Health Organization's guidance on limiting further spread of COVID-19 is to practice social distancing. As a result, schools in most affected areas are taking precautionary measures by closing their facilities. With school-aged children at home for an indeterminate amount of time,  keeping them engaged, entertained, and on top of their education is important.
+Saltwater intrusion with a salinity rate of four grammes per litter is expected to enter 50-95 kilometers deep into the delta’s main rivers 
+
+Example : Can Tho City ( Viet Nam )  is nearly 100 kilometer from the sea. read 3,500 parts per thousand (ppt), normal water of less than 250 ppt.
+ 
+On 2016, 600,000 people lost access to freshwater, while 160,000 hectares of paddy were destroyed and 800,000 tons of rice were lost. Financial damage from that drought hit US$237 million
+
+Link of damage picture 
+
 
 ### How can technology help?
 
@@ -35,7 +42,18 @@ Schools and teachers can continue to engage with their students through virtual 
 
 ### The idea
 
-It's imperative that learning and creating can continue when educational institutions have to shift the way they teach in times of crises, such as the COVID-19 pandemic. Providing a set of open source tools, backed by IBM Cloud and Watson Services, will enable educators to more easily make content available for their students.
+This IIoT solution aims to help farmers, particularly those in adapting climate change, monitor saltwater intrusion data and adapt their crop strategies to optimize water usage. Beside that we will use automation irrigation when they saltwater intrusion is over permission than the pump will switch on from river pump to Saltwater treatment pump to save the water and protect the crop   
+
+Climate change with sea water rising and keeping the water for  Hydropower Plant and Reservoir of upstream countries are causing farmers to reconsider the crops by alarm of saltwater intrusion water level and automation irrigation, but they are aware of what crops will have a big damage in the new circumstances, according to the changing water availability. 
+
+Awareness and education of suitable IoT solution with IBM Service in order to make the farmer to reduce the loss  with a good yield, will help farmers make water-friendly choices and control the loss of their crop.
+
+To achieve these goals we propose the creation of a framework full IIoT solution from IBM Cloud Service and Maple Smart Control full solution to create solutions focused on MONITOR AND CONTROL saltwater intrusion and automation irrigation for farmers affected by climate change around the world. 
+
+The framework will also target the Agricultural and Aquaculture sectors, also known as IIoT technology for real time and automation control as well as applying the experiences from senior farmers data for Machine Training or predict saltwater instruction when we have enough data for Machine Learning .
+
+We intend to do the pilot project at 3 points at Mekong Delta with this solution in order to reduce the damage for farmer on 2021. We need the support from IBM and UN for this project will come true.
+
 
 ## Demo video
 
@@ -142,7 +160,10 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Billie Thompson** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Bill Chuong ** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+https://www.linkedin.com/in/bill-chuong-a8245236/
+https://twitter.com/sumosumi04
+
 
 See also the list of [contributors](https://github.com/Code-and-Response/Project-Sample/graphs/contributors) who participated in this project.
 
@@ -152,4 +173,5 @@ This project is licensed under the Apache 2 License - see the [LICENSE](LICENSE)
 
 ## Acknowledgments
 
+* 
 * Based on [Billie Thompson's README template](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2).
