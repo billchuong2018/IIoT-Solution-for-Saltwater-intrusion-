@@ -35,6 +35,8 @@ A basic GitHub repository example for Call for Code submissions and those projec
 
 - A lot of Hydropower plant in upstream and water reservoir to keep the water in upstream with impact more than 10 millions water in Mekong Delta 
 
+https://drive.google.com/file/d/1bVA_JYNbDdZUjP3ZsqkahsLF3cgGuxzS/view?usp=sharing
+
 2) PROBLEM 1 : SALTWATER INTRUSION DURING DEC – JUNE AT VIET NAM EVERY YEAR
 
 - Saltwater intrusion with a salinity rate of four grammes per litter is expected to enter 50-95 kilometers deep into the delta’s main rivers 
@@ -42,6 +44,8 @@ A basic GitHub repository example for Call for Code submissions and those projec
 - Example : Can Tho City ( Viet Nam )  is nearly 100 kilometer from the sea. read 3,500 parts per thousand (ppt), normal water of less than 250 ppt.
  
 - On 2016, 600,000 people lost access to freshwater, while 160,000 hectares of paddy were destroyed and 800,000 tons of rice were lost. Financial damage from that drought hit US$237 million
+
+https://drive.google.com/file/d/12sjwORBtbwz04SWMB63ZCi7_1HJtwn1F/view?usp=sharing
 
 3) PROBLEM 2 : ABSENCE OF FLOOD WATER AND LACK OF WATER IN HOT SEASON 
 
@@ -51,8 +55,7 @@ A basic GitHub repository example for Call for Code submissions and those projec
 
 - Upstream countries have sought to store water in their dams
 
-
-Link of damage picture 
+https://drive.google.com/file/d/1BE0TSEwnSEBBJgVUu1XnfA4Qx0KOCm_v/view?usp=sharing
 
 
 ### How can technology help?
@@ -63,6 +66,9 @@ Link of damage picture
 
 - Compare the water contain with experience data from Senior Farmer OR predict data by machine learning for Seawater intrusion contain 
 
+https://drive.google.com/file/d/1kT8ISEpjGob3DoeO1alxCg3oSuB-tauP/view?usp=sharing
+
+https://drive.google.com/file/d/14gLp7dFUFD2NHwwvQbUH-Lu_90WNqc-R/view?usp=sharing
 
 ### The idea
 
@@ -78,6 +84,7 @@ Link of damage picture
 
 - We intend to do the pilot project at 3 points at Mekong Delta with this solution in order to reduce the damage for farmer on 2021. We need the support from IBM and UN for this project will come true.
 
+https://drive.google.com/file/d/1ZGJxv50ivHYuwoWuow2V8qxiMBVaS5Vj/view?usp=sharing
 
 ## Demo video
 
@@ -85,7 +92,8 @@ Link of damage picture
 
 ## The architecture
 
-![Video transcription/translation app](https://developer.ibm.com/developer/tutorials/cfc-starter-kit-speech-to-text-app-example/images/cfc-covid19-remote-education-diagram-2.png)
+
+https://drive.google.com/file/d/1v3lb39qTj4DrrP_PoTzVIpFnd44NhxmK/view?usp=sharing
 
 1) Deployed Node-RED Application to IBM Cloud
 
@@ -121,7 +129,7 @@ Link of damage picture
 
 ## Project roadmap
 
-![Roadmap](roadmap.jpg)
+https://drive.google.com/file/d/1v3lb39qTj4DrrP_PoTzVIpFnd44NhxmK/view?usp=sharing
 
 ## Getting started
 
@@ -213,6 +221,7 @@ https://www.linkedin.com/in/bill-chuong-a8245236/
 
 https://twitter.com/sumosumi04
 
+https://drive.google.com/file/d/179on4JEC9kA_pNWyP9k7egjjAoju98L9/view?usp=sharing
 
 See also the list of [contributors](https://github.com/Code-and-Response/Project-Sample/graphs/contributors) who participated in this project.
 
