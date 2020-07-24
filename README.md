@@ -35,9 +35,8 @@ A basic GitHub repository example for Call for Code submissions and those projec
 
 - A lot of Hydropower plant in upstream and water reservoir to keep the water in upstream with impact more than 10 millions water in Mekong Delta 
 
-https://drive.google.com/file/d/1bVA_JYNbDdZUjP3ZsqkahsLF3cgGuxzS/view?usp=sharing
 
-!(https://drive.google.com/file/d/1bVA_JYNbDdZUjP3ZsqkahsLF3cgGuxzS/view?usp=sharing)
+https://drive.google.com/file/d/1bVA_JYNbDdZUjP3ZsqkahsLF3cgGuxzS/view?usp=sharing
 
 
 2) PROBLEM 1 : SALTWATER INTRUSION DURING DEC – JUNE AT VIET NAM EVERY YEAR
@@ -50,7 +49,9 @@ https://drive.google.com/file/d/1bVA_JYNbDdZUjP3ZsqkahsLF3cgGuxzS/view?usp=shari
 
 - On 2016 , Financial damage from that drought hit US$237 million and now it increases more dangerous damages on 2019 - 2020
 
+
 https://drive.google.com/file/d/12sjwORBtbwz04SWMB63ZCi7_1HJtwn1F/view?usp=sharing
+
 
 3) PROBLEM 2 :  LACK OF WATER IN HOT SEASON 
 
@@ -59,6 +60,7 @@ https://drive.google.com/file/d/12sjwORBtbwz04SWMB63ZCi7_1HJtwn1F/view?usp=shari
 - When annual flooding does not happen or when it’s late, cropping and fishing activities in the Mekong Delta are disrupted.
 
 - Upstream countries have sought to store water in their dams
+
 
 https://drive.google.com/file/d/1BE0TSEwnSEBBJgVUu1XnfA4Qx0KOCm_v/view?usp=sharing
 
@@ -89,7 +91,9 @@ https://drive.google.com/file/d/14gLp7dFUFD2NHwwvQbUH-Lu_90WNqc-R/view?usp=shari
 
 - We intend to do the pilot project at 3 points at Mekong Delta with this solution in order to reduce the damage for farmer on 2021. We need the support from IBM and UN for this project will come true.
 
+
 https://drive.google.com/file/d/1ZGJxv50ivHYuwoWuow2V8qxiMBVaS5Vj/view?usp=sharing
+
 
 ## Demo video
 
@@ -112,7 +116,9 @@ https://drive.google.com/file/d/1ZGJxv50ivHYuwoWuow2V8qxiMBVaS5Vj/view?usp=shari
 
 7) Automatic Switch transfer from River pump to Water Treatment pump when the Saltwater intrusion meet the over permission  
 
+
 https://drive.google.com/file/d/1kT8ISEpjGob3DoeO1alxCg3oSuB-tauP/view?usp=sharing
+
 
 ## Long description
 
@@ -129,11 +135,16 @@ https://drive.google.com/file/d/1kT8ISEpjGob3DoeO1alxCg3oSuB-tauP/view?usp=shari
 3.2) Disaster resiliency: MSC will use the monitor system for saltwater intrusion contain in branch river in hot season at Viet Nam during Dec – June in every years in order to help communities prepare for saltwater intrusion, this app will provide residents with real-time information on the capacity of saltwater intrusion contain
 
 
+https://drive.google.com/file/d/14gLp7dFUFD2NHwwvQbUH-Lu_90WNqc-R/view?usp=sharing
+
+
 [More detail is available here](DESCRIPTION.md)
 
 ## Project roadmap
 
+
 https://drive.google.com/file/d/1v3lb39qTj4DrrP_PoTzVIpFnd44NhxmK/view?usp=sharing
+
 
 ## Getting started
 
