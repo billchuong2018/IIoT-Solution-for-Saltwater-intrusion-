@@ -227,7 +227,7 @@ https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/ma
 
 ## Project roadmap
 
-OUR PILOT PRODUCT PROJECT ROADMAP LINK:
+# OUR PILOT PRODUCT PROJECT ROADMAP LINK:
 
 ![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/15.%20Road%20map.JPG?raw=true)
 
@@ -242,64 +242,89 @@ These instructions will get you a copy of the project up and running on your loc
 
 What things you need to install the software and how to install them
 
-```bash
-dnf install wget
-wget http://www.example.com/install.sh
-bash install.sh
-```
+1.	IBM Cloud
 
+You must create an IBM account:
+
+https://www.ibm.com/account/reg/us-en/signup?formid=urx-19776&target=https%3A%2F%2Fidaas.iam.ibm.com%2Fidaas%2Foidc%2Fendpoint%2Fdefault%2Fauthorize%3Fredirect_uri%3Dhttps%253A%252F%252Fmyibm.ibm.com%252Fmymga%252Fsps%252Foidc%252Frp%252FMyOIDCRP%252Fredirect%252FIBMid%26response_type%3Dcode%26state%3DJLlFzarluk%26scope%3Dopenid%26client_id%3Dmyibmdallasprod 
+
+Refer to the instructions below to get started with IBM cloud services:
+
+https://developer.ibm.com/tutorials/how-to-create-an-internet-of-things-platform-starter-application/
+
+
+2.	Node-Red
+
+Install Node-RED on your system or in the cloud
+
+Link: https://nodered.org/docs/getting-started/ 
+
+
+3.	Arduino IDE
+
+Download and install Arduino IDE:
+
+https://www.arduino.cc/en/main/software
+
+ 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running
+1.	Node red
 
-Say what the step will be, for example
+Add the following nodes to your Node-RED palette
 
-```bash
-export TOKEN="fffd0923aa667c617a62f5A_fake_token754a2ad06cc9903543f1e85"
-export EMAIL="jane@example.com"
-dnf install npm
-node samplefile.js
-Server running at http://127.0.0.1:3000/
-```
+Link: https://nodered.org/docs/user-guide/runtime/adding-nodes 
 
-And repeat
 
-```bash
-curl localhost:3000
-Thanks for looking at Code-and-Response!
-```
+node-red-dashboard
 
-End with an example of getting some data out of the system or using it for a little demo
+Link: https://flows.nodered.org/node/node-red-dashboard 
+
+
+node-red-contrib-web-worldmap
+
+Link: https://flows.nodered.org/node/node-red-contrib-web-worldmap 
+
+
+node-red-node-ui-table
+
+Link: https://flows.nodered.org/node/node-red-node-ui-table 
+
+
+2.	Esp8266 on Arduino IDE Library
+
+•	Add the libraries below to the Arduino IDE :
+
+•	https://binnes.github.io/esp8266Workshop/part1/FIRSTAPP.html 
+
+•	Install 2 libraries of ArduinoJson and Pubsubclient to connect to IBM via MQTT 
+
+•	Link: https://github.com/knolleary/pubsubclient 
+
+•	Link: https://github.com/bblanchon/ArduinoJson
+
 
 ## Running the tests
 
-Explain how to run the automated tests for this system
+You will have to create and deploy your application according to the instructions below 
+
+https://binnes.github.io/esp8266Workshop/part1/IOTCLOUD.html
+
 
 ### Break down into end to end tests
 
 Explain what these tests test and why, if you were using something like `mocha` for instance
 
-```bash
-npm install mocha --save-dev
-vi test/test.js
-./node_modules/mocha/bin/mocha
-```
-
 ### And coding style tests
 
 Explain what these tests test and why, if you chose `eslint` for example
 
-```bash
-npm install eslint --save-dev
-npx eslint --init
-npx eslint sample-file.js
-```
 
 ## Live demo
 
 You can find a running system to test at 
 
-OUR DEMO
+# OUR DEMO
 
 https://node-iot-msc.mybluemix.net/ui/#!/0?socketid=PfqILuXp8fdTqEbtAAAE/
 
@@ -310,11 +335,13 @@ https://node-iot-msc.mybluemix.net/ui/#!/0?socketid=PfqILuXp8fdTqEbtAAAE/
 ## Built with
 
 * [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
-* [IBM Cloud Functions](https://cloud.ibm.com/catalog?search=cloud%20functions#search_results) - The compute platform for handing logic
-* [IBM API Connect](https://cloud.ibm.com/catalog?search=api%20connect#search_results) - The web framework used
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
+
+* IBM Internet of Thing Platform https://cloud.ibm.com/catalog?search=internet%20of%20thing#search_results
+
+* IBM Cloud Foundry https://cloud.ibm.com/catalog?search=cloud%20foudry#search_results
+
+* IBM Node-Red App https://cloud.ibm.com/catalog?search=node%20red%20app#search_results 
+
 
 ## Contributing
 
