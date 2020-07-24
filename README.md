@@ -227,7 +227,7 @@ https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/ma
 
 ## Project roadmap
 
-#### OUR PILOT PRODUCT PROJECT ROADMAP LINK:
+OUR PILOT PRODUCT PROJECT ROADMAP LINK:
 
 ![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/15.%20Road%20map.JPG?raw=true)
 
@@ -324,23 +324,22 @@ Explain what these tests test and why, if you chose `eslint` for example
 
 You can find a running system to test at 
 
-#### OUR DEMO
+OUR DEMO LINK: 
+
 
 https://node-iot-msc.mybluemix.net/ui/#!/0?socketid=PfqILuXp8fdTqEbtAAAE/
 
 
-[callforcode.mybluemix.net](http://callforcode.mybluemix.net/)
-
 
 ## Built with
 
-* [IBM Cloudant](https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
+* [IBM Cloudant] : (https://cloud.ibm.com/catalog?search=cloudant#search_results) - The NoSQL database used
 
-* IBM Internet of Thing Platform https://cloud.ibm.com/catalog?search=internet%20of%20thing#search_results
+* IBM Internet of Thing Platform : https://cloud.ibm.com/catalog?search=internet%20of%20thing#search_results
 
-* IBM Cloud Foundry https://cloud.ibm.com/catalog?search=cloud%20foudry#search_results
+* IBM Cloud Foundry :  https://cloud.ibm.com/catalog?search=cloud%20foudry#search_results
 
-* IBM Node-Red App https://cloud.ibm.com/catalog?search=node%20red%20app#search_results 
+* IBM Node-Red App :  https://cloud.ibm.com/catalog?search=node%20red%20app#search_results 
 
 
 ## Contributing
