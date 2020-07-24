@@ -76,11 +76,13 @@ https://drive.google.com/file/d/1BE0TSEwnSEBBJgVUu1XnfA4Qx0KOCm_v/view?usp=shari
 
 - Compare the water contain with experience data from Senior Farmer OR predict data by machine learning for Seawater intrusion contain 
 
-THE LINK OF OUR TECHNOLOGY CAN HELP:
-
-https://drive.google.com/file/d/1kT8ISEpjGob3DoeO1alxCg3oSuB-tauP/view?usp=sharing
+THE LINK OF OUR TECHNOLOGY CAN HELP " ALARM THE SALTWATER INTRUSION CONTAIN AND AUTOMATIC SWITCH FROM RIVER PUMP TO WATER TREATMENT PUMP":
 
 https://drive.google.com/file/d/14gLp7dFUFD2NHwwvQbUH-Lu_90WNqc-R/view?usp=sharing
+
+THE LINK OF OUR TECHNOLOGY WITH IIOT FULL SOLUTION WITH MAPLE SMART CONTROL ARCHITECTURE: 
+
+https://drive.google.com/file/d/1kT8ISEpjGob3DoeO1alxCg3oSuB-tauP/view?usp=sharing
 
 ### The idea
 
@@ -124,7 +126,7 @@ https://youtu.be/jPw6tjzPEKQ
 
 7) Automatic Switch transfer from River pump to Water Treatment pump when the Saltwater intrusion meet the over permission  
 
-MAPLE SMART CONTROL CONNECT WITH IBM ARCHITECTURE:
+THE LINK FOR MAPLE SMART CONTROL CONTROLLER CONNECTS WITH IBM ARCHITECTURE:
 
 https://drive.google.com/file/d/1kT8ISEpjGob3DoeO1alxCg3oSuB-tauP/view?usp=sharing
 
