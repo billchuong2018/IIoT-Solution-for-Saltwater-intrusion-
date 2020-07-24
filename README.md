@@ -35,7 +35,7 @@ A basic GitHub repository example for Call for Code submissions and those projec
 
 - A lot of Hydropower plant in upstream and water reservoir to keep the water in upstream with impact more than 10 millions water in Mekong Delta 
 
-
+THE LINK FOR PROBLEM :
 https://drive.google.com/file/d/1bVA_JYNbDdZUjP3ZsqkahsLF3cgGuxzS/view?usp=sharing
 
 
@@ -49,7 +49,7 @@ https://drive.google.com/file/d/1bVA_JYNbDdZUjP3ZsqkahsLF3cgGuxzS/view?usp=shari
 
 - On 2016 , Financial damage from that drought hit US$237 million and now it increases more dangerous damages on 2019 - 2020
 
-
+THE LINK FOR PROBLEM 1
 https://drive.google.com/file/d/12sjwORBtbwz04SWMB63ZCi7_1HJtwn1F/view?usp=sharing
 
 
@@ -61,7 +61,7 @@ https://drive.google.com/file/d/12sjwORBtbwz04SWMB63ZCi7_1HJtwn1F/view?usp=shari
 
 - Upstream countries have sought to store water in their dams
 
-
+THE LINK FOR PROBLEM 2
 https://drive.google.com/file/d/1BE0TSEwnSEBBJgVUu1XnfA4Qx0KOCm_v/view?usp=sharing
 
 
@@ -91,13 +91,13 @@ https://drive.google.com/file/d/14gLp7dFUFD2NHwwvQbUH-Lu_90WNqc-R/view?usp=shari
 
 - We intend to do the pilot project at 3 points at Mekong Delta with this solution in order to reduce the damage for farmer on 2021. We need the support from IBM and UN for this project will come true.
 
-
+THE LINK FOR MAPLE SMART CONTROL IDEA 
 https://drive.google.com/file/d/1ZGJxv50ivHYuwoWuow2V8qxiMBVaS5Vj/view?usp=sharing
 
 
 ## Demo video
 
-[![Watch the video](https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
+(https://github.com/Code-and-Response/Liquid-Prep/blob/master/images/IBM-interview-video-image.png)](https://youtu.be/vOgCOoy_Bx0)
 
 ## The architecture
 
@@ -116,7 +116,7 @@ https://drive.google.com/file/d/1ZGJxv50ivHYuwoWuow2V8qxiMBVaS5Vj/view?usp=shari
 
 7) Automatic Switch transfer from River pump to Water Treatment pump when the Saltwater intrusion meet the over permission  
 
-
+MAPLE SMART CONTROL CONNECT WITH IBM ARCHITECTURE 
 https://drive.google.com/file/d/1kT8ISEpjGob3DoeO1alxCg3oSuB-tauP/view?usp=sharing
 
 
@@ -134,7 +134,7 @@ https://drive.google.com/file/d/1kT8ISEpjGob3DoeO1alxCg3oSuB-tauP/view?usp=shari
 
 3.2) Disaster resiliency: MSC will use the monitor system for saltwater intrusion contain in branch river in hot season at Viet Nam during Dec – June in every years in order to help communities prepare for saltwater intrusion, this app will provide residents with real-time information on the capacity of saltwater intrusion contain
 
-
+OUR TARGET TO HELP THE FARMERS AND REDUCE THE SALTWATER INTRUSION DAMAGE BY WATER SUSTAINABILITY AND DISASTER RESILIENCY LINK: 
 https://drive.google.com/file/d/14gLp7dFUFD2NHwwvQbUH-Lu_90WNqc-R/view?usp=sharing
 
 
@@ -142,7 +142,7 @@ https://drive.google.com/file/d/14gLp7dFUFD2NHwwvQbUH-Lu_90WNqc-R/view?usp=shari
 
 ## Project roadmap
 
-
+OUR PILOT PRODUCT PROJECT ROADMAP LINK:
 https://drive.google.com/file/d/1v3lb39qTj4DrrP_PoTzVIpFnd44NhxmK/view?usp=sharing
 
 
@@ -209,7 +209,13 @@ npx eslint sample-file.js
 
 ## Live demo
 
-You can find a running system to test at [callforcode.mybluemix.net](http://callforcode.mybluemix.net/)
+You can find a running system to test at 
+
+OUR DEMO
+( https://node-iot-msc.mybluemix.net/ui/#!/0?socketid=PfqILuXp8fdTqEbtAAAE/)
+
+
+[callforcode.mybluemix.net](http://callforcode.mybluemix.net/)
 
 ## Built with
 
@@ -232,13 +238,17 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Bill Chuong ** - *Initial work* - 
 
-1) Team Leader : Mr Bill Chuong
+1) LINK WITH OUR TEAM LEADER 
+
+Team Leader : Mr Bill Chuong
 
 https://www.linkedin.com/in/bill-chuong-a8245236/
 
 https://twitter.com/sumosumi04
 
-2) Team Organization : Senko Hao, Tom S, Hananhella H, Tony T, Adam T, Christ T
+2) LINK WITH OUR TEAMS 
+
+Team Organization : Senko Hao, Tony T ( Viet Nam ); Tom S, Hananhella H, Christ Truong ( Canada) ; John W ( US)  
 
 https://drive.google.com/file/d/179on4JEC9kA_pNWyP9k7egjjAoju98L9/view?usp=sharing
 
