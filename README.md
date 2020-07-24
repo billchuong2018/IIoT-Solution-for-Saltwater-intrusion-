@@ -174,7 +174,7 @@ https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/ma
 
 3) AT PER TARGET OF CALL FOR CODE 2020 
 
-3.1)  Water sustainability: Maple Smart Control (MSC) will use the Automation Irrigation for when the saltwater intrusion contain is over permission than the pump will automation will switch from river pump to water treatment pump . This IoT-based solution aims to help farmers, particularly those in, monitor saltwater intrusion data and adapt their crop strategies to optimize water usage and save the water treatment material  
+3.1)  Water sustainability: Maple Smart Control (MSC) will use the Automation Switching and run Automation Irrigation System  for when the saltwater intrusion contain is over permission than the pump will automation will switch from river pump to water treatment pump . This IoT-based solution aims to help farmers, particularly those in, monitor saltwater intrusion data and adapt their crop strategies to optimize water usage and save the water treatment material  
 
 3.2) Disaster resiliency: MSC will use the monitor system for saltwater intrusion contain in branch river in hot season at Viet Nam during Dec – June in every years in order to help communities prepare for saltwater intrusion, this app will provide residents with real-time information on the capacity of saltwater intrusion contain
 
