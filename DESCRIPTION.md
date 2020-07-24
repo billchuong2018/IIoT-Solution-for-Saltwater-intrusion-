@@ -81,8 +81,9 @@ We do the full solution from hardware - connect with IBM Cloud and service with 
 
 Thank you very much for support from 
 
-- Mr J.W ( US  )
-- Mr T.S ( Canada )
 - Mr Senko Hao ( Viet Nam)  
+- Mr T.S ( Canada )
+- Many contribution from Experts in US, Canada, Viet Nam for this project 
+
 
 
