@@ -93,8 +93,6 @@ https://drive.google.com/file/d/1ZGJxv50ivHYuwoWuow2V8qxiMBVaS5Vj/view?usp=shari
 ## The architecture
 
 
-https://drive.google.com/file/d/1v3lb39qTj4DrrP_PoTzVIpFnd44NhxmK/view?usp=sharing
-
 1) Deployed Node-RED Application to IBM Cloud
 
 2) Connected water sensors to Watson IoT Platform
@@ -109,6 +107,7 @@ https://drive.google.com/file/d/1v3lb39qTj4DrrP_PoTzVIpFnd44NhxmK/view?usp=shari
 
 7) Automatic Switch transfer from River pump to Water Treatment pump when the Saltwater intrusion meet the over permission  
 
+https://drive.google.com/file/d/1kT8ISEpjGob3DoeO1alxCg3oSuB-tauP/view?usp=sharing
 
 ## Long description
 
@@ -217,9 +216,13 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Bill Chuong ** - *Initial work* - 
 
+1) Team Leader : Mr Bill Chuong
+
 https://www.linkedin.com/in/bill-chuong-a8245236/
 
 https://twitter.com/sumosumi04
+
+2) Team Organization : Senko Hao, Tom S, Hananhella H, Tony T, Adam T, Christ T
 
 https://drive.google.com/file/d/179on4JEC9kA_pNWyP9k7egjjAoju98L9/view?usp=sharing
 
