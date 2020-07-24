@@ -80,9 +80,11 @@ THE LINK OF OUR TECHNOLOGY CAN HELP " ALARM THE SALTWATER INTRUSION CONTAIN AND 
 
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/05.%20Our%20technical%20solution.JPG
 
+
 THE LINK OF OUR TECHNOLOGY WITH IIOT FULL SOLUTION WITH MAPLE SMART CONTROL ARCHITECTURE: 
 
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/07.%20MSC%20Architeture.JPG
+
 
 ### The idea
 
@@ -109,6 +111,7 @@ THE LINK FOR OUR DEMO ( VERSION 1- 2020.07.24 ) :
 
 https://youtu.be/jPw6tjzPEKQ
 
+
 ## The architecture
 
 
@@ -126,10 +129,15 @@ https://youtu.be/jPw6tjzPEKQ
 
 7) Automatic Switch transfer from River pump to Water Treatment pump when the Saltwater intrusion meet the over permission  
 
+
 THE LINK FOR MAPLE SMART CONTROL CONTROLLER CONNECTS WITH IBM ARCHITECTURE:
+
+1) FULL CONCEPT DESIGN WITH MSC CONTROLLER - IBM SERVICE
 
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/08.%20MSC%20connect%20with%20IBM.JPG
 
+
+2) DEPLOY WITH IBM SERVICE
 
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/06.%20Our%20connection%20with%20IBM.JPG
 
@@ -152,6 +160,7 @@ https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/ma
 
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/13%20-%20Comparison%20with%20Existing%20solution.JPG
 
+
 5) OUR TARGET TO HELP THE FARMERS AND REDUCE THE SALTWATER INTRUSION DAMAGE BY WATER SUSTAINABILITY AND DISASTER RESILIENCY
 
 
@@ -171,13 +180,17 @@ https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/ma
 
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/11.%20Result%20-%20Hardware%20design.JPG
 
+
 6.4) Prototype with full solution 
 
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/12.%20Result%20of%20Prototype.JPG
 
 ( Note : The water treatment pump will run when the saltwater intrusion is over permission of TDS and send the alarm to public by Twitter or SMS) 
 
+
 [More detail is available here](DESCRIPTION.md)
+
+
 
 ## Project roadmap
 
@@ -252,10 +265,12 @@ npx eslint sample-file.js
 You can find a running system to test at 
 
 OUR DEMO
-( https://node-iot-msc.mybluemix.net/ui/#!/0?socketid=PfqILuXp8fdTqEbtAAAE/)
+
+https://node-iot-msc.mybluemix.net/ui/#!/0?socketid=PfqILuXp8fdTqEbtAAAE/
 
 
 [callforcode.mybluemix.net](http://callforcode.mybluemix.net/)
+
 
 ## Built with
 
@@ -286,15 +301,17 @@ https://www.linkedin.com/in/bill-chuong-a8245236/
 
 https://twitter.com/sumosumi04
 
+
 2) OUR TEAMS 
 
 Team Organization :
 
 Team Leader :Senko Hao ( Viet Nam ) 
 
-Support and Contribute by : Tony T ( Viet Nam ); Tom S, Christ Truong ( Canada) ; John W ( US)  
+Support and Contribute by : Tony T ( Viet Nam ); Tom S, Christ T, May T ( Canada) ; John W ( US)  
 
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/16.%20Our%20Team.JPG
+
 
 3) CONTACT US:
 
