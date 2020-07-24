@@ -39,6 +39,8 @@ THE LINK FOR PROBLEM :
 
 https://drive.google.com/file/d/1bVA_JYNbDdZUjP3ZsqkahsLF3cgGuxzS/view?usp=sharing
 
+https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/01.%20Real%20Problem.JPG
+
 
 2) PROBLEM 1 : SALTWATER INTRUSION DURING DEC – JUNE AT VIET NAM EVERY YEAR
 
