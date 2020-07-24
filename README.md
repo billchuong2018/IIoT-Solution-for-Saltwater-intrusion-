@@ -367,9 +367,9 @@ https://twitter.com/sumosumi04
 
 Team Organization :
 
-Team Leader :Senko Hao ( Viet Nam ) 
+Team Leader :Hao Nguyen ( Viet Nam ) 
 
-Support and Contribute by : Tony T ( Viet Nam ); Tom S, Christ T, May T ( Canada) ;  
+Support and Contribute by : Tony T, Andy T, Mary L ( Viet Nam ); Tom S, Christ T, May T ( Canada) ;  
 
 Thank you many contribution from Experts from Viet Nam, Canada, US ...to help for clarify the problem and technical advise.
 
