@@ -35,9 +35,7 @@ A basic GitHub repository example for Call for Code submissions and those projec
 
 - A lot of Hydropower plant in upstream and water reservoir to keep the water in upstream with impact more than 10 millions water in Mekong Delta 
 
-THE LINK FOR PROBLEM :
-
-https://drive.google.com/file/d/1bVA_JYNbDdZUjP3ZsqkahsLF3cgGuxzS/view?usp=sharing
+THE LINK FOR REAL WORLD PROBLEM :
 
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/01.%20Real%20Problem.JPG
 
@@ -54,7 +52,7 @@ https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/ma
 
 THE LINK FOR PROBLEM 1:
 
-https://drive.google.com/file/d/12sjwORBtbwz04SWMB63ZCi7_1HJtwn1F/view?usp=sharing
+https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/02.%20Problem%201%20(%20Saltwater%20intrusion).JPG
 
 
 3) PROBLEM 2 :  LACK OF WATER IN HOT SEASON 
@@ -67,7 +65,7 @@ https://drive.google.com/file/d/12sjwORBtbwz04SWMB63ZCi7_1HJtwn1F/view?usp=shari
 
 THE LINK FOR PROBLEM 2:
 
-https://drive.google.com/file/d/1BE0TSEwnSEBBJgVUu1XnfA4Qx0KOCm_v/view?usp=sharing
+https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/03.%20Problem%202%20(%20Shortage%20of%20water).JPG
 
 
 ### How can technology help?
@@ -80,11 +78,11 @@ https://drive.google.com/file/d/1BE0TSEwnSEBBJgVUu1XnfA4Qx0KOCm_v/view?usp=shari
 
 THE LINK OF OUR TECHNOLOGY CAN HELP " ALARM THE SALTWATER INTRUSION CONTAIN AND AUTOMATIC SWITCH FROM RIVER PUMP TO WATER TREATMENT PUMP":
 
-https://drive.google.com/file/d/14gLp7dFUFD2NHwwvQbUH-Lu_90WNqc-R/view?usp=sharing
+https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/05.%20Our%20technical%20solution.JPG
 
 THE LINK OF OUR TECHNOLOGY WITH IIOT FULL SOLUTION WITH MAPLE SMART CONTROL ARCHITECTURE: 
 
-https://drive.google.com/file/d/1kT8ISEpjGob3DoeO1alxCg3oSuB-tauP/view?usp=sharing
+https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/07.%20MSC%20Architeture.JPG
 
 ### The idea
 
@@ -102,12 +100,12 @@ https://drive.google.com/file/d/1kT8ISEpjGob3DoeO1alxCg3oSuB-tauP/view?usp=shari
 
 THE LINK FOR MAPLE SMART CONTROL IDEA :
 
-https://drive.google.com/file/d/1ZGJxv50ivHYuwoWuow2V8qxiMBVaS5Vj/view?usp=sharing
+https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/04.Our%20ideas.JPG
 
 
 ## Demo video
 
-THE LINK FOR OUR DEMO : 
+THE LINK FOR OUR DEMO ( VERSION 1- 2020.07.24 ) : 
 
 https://youtu.be/jPw6tjzPEKQ
 
@@ -130,7 +128,10 @@ https://youtu.be/jPw6tjzPEKQ
 
 THE LINK FOR MAPLE SMART CONTROL CONTROLLER CONNECTS WITH IBM ARCHITECTURE:
 
-https://drive.google.com/file/d/1kT8ISEpjGob3DoeO1alxCg3oSuB-tauP/view?usp=sharing
+https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/08.%20MSC%20connect%20with%20IBM.JPG
+
+
+https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/06.%20Our%20connection%20with%20IBM.JPG
 
 
 ## Long description
@@ -147,10 +148,34 @@ https://drive.google.com/file/d/1kT8ISEpjGob3DoeO1alxCg3oSuB-tauP/view?usp=shari
 
 3.2) Disaster resiliency: MSC will use the monitor system for saltwater intrusion contain in branch river in hot season at Viet Nam during Dec – June in every years in order to help communities prepare for saltwater intrusion, this app will provide residents with real-time information on the capacity of saltwater intrusion contain
 
-OUR TARGET TO HELP THE FARMERS AND REDUCE THE SALTWATER INTRUSION DAMAGE BY WATER SUSTAINABILITY AND DISASTER RESILIENCY LINK: 
+4) COMPARASION WITH THE EXISTING SOLUTION AND WHY WE ATTEND THE CALL FOR CODE 2020
 
-https://drive.google.com/file/d/14gLp7dFUFD2NHwwvQbUH-Lu_90WNqc-R/view?usp=sharing
+https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/13%20-%20Comparison%20with%20Existing%20solution.JPG
 
+5) OUR TARGET TO HELP THE FARMERS AND REDUCE THE SALTWATER INTRUSION DAMAGE BY WATER SUSTAINABILITY AND DISASTER RESILIENCY
+
+
+6) THE RESULT WITH PUBLIC VIEW AND PROTOTYE RESULT AT OUR VIET NAM WORKSHOP
+
+6.1) Public view 
+
+https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/09.%20Result%20-%20Public%20View.JPG
+
+
+6.2) User view
+
+https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/10.%20Result%20-%20User%20view.JPG
+
+
+6.3) Hardware development
+
+https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/11.%20Result%20-%20Hardware%20design.JPG
+
+6.4) Prototype with full solution 
+
+https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/12.%20Result%20of%20Prototype.JPG
+
+( Note : The water treatment pump will run when the saltwater intrusion is over permission of TDS and send the alarm to public by Twitter or SMS) 
 
 [More detail is available here](DESCRIPTION.md)
 
@@ -158,7 +183,7 @@ https://drive.google.com/file/d/14gLp7dFUFD2NHwwvQbUH-Lu_90WNqc-R/view?usp=shari
 
 OUR PILOT PRODUCT PROJECT ROADMAP LINK:
 
-https://drive.google.com/file/d/1v3lb39qTj4DrrP_PoTzVIpFnd44NhxmK/view?usp=sharing
+https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/15.%20Road%20map.JPG
 
 
 ## Getting started
@@ -253,7 +278,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 * **Bill Chuong ** - *Initial work* - 
 
-1) LINK WITH OUR PROJECT MANAGER 
+1) OUR PROJECT MANAGER 
 
 Our Project Manager : Mr Bill Chuong ( Canada ) 
 
@@ -261,7 +286,7 @@ https://www.linkedin.com/in/bill-chuong-a8245236/
 
 https://twitter.com/sumosumi04
 
-2) LINK WITH OUR TEAMS 
+2) OUR TEAMS 
 
 Team Organization :
 
@@ -269,7 +294,12 @@ Team Leader :Senko Hao ( Viet Nam )
 
 Support and Contribute by : Tony T ( Viet Nam ); Tom S, Christ Truong ( Canada) ; John W ( US)  
 
-https://drive.google.com/file/d/179on4JEC9kA_pNWyP9k7egjjAoju98L9/view?usp=sharing
+https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/16.%20Our%20Team.JPG
+
+3) CONTACT US:
+
+https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/17.%20Contact%20us.JPG
+
 
 See also the list of [contributors](https://github.com/Code-and-Response/Project-Sample/graphs/contributors) who participated in this project.
 
