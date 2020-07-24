@@ -121,8 +121,6 @@ https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/ma
 
 THE LINK FOR OUR DEMO ( VERSION 1- 2020.07.24 ) : 
 
-![alt text](https://youtu.be/jPw6tjzPEKQ?raw=true)
-
 https://youtu.be/jPw6tjzPEKQ
 
 
