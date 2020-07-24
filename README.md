@@ -337,7 +337,7 @@ Team Organization :
 
 Team Leader :Senko Hao ( Viet Nam ) 
 
-Support and Contribute by : Tony T ( Viet Nam ); Tom S, Christ T, May T ( Canada) ; John W ( US)  
+Support and Contribute by : Tony T ( Viet Nam ); Tom S, Christ T, May T ( Canada) ;  
 
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/16.%20Our%20Team.JPG
 
