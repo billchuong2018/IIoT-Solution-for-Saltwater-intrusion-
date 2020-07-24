@@ -37,18 +37,9 @@ A basic GitHub repository example for Call for Code submissions and those projec
 
 THE LINK FOR REAL WORLD PROBLEM :
 
-1) Opt 1
-
-https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/01.%20Real%20Problem.JPG
-
-2) Opt 2 
-
 ![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/01.%20Real%20Problem.JPG?raw=true)
 
-3) Opt 3
-
-![Optional Text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/01.%20Real%20Problem.JPG)
-![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/01.%20Real%20Problem.JPG)
+https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/01.%20Real%20Problem.JPG
 
 
 2) PROBLEM 1 : SALTWATER INTRUSION DURING DEC – JUNE AT VIET NAM EVERY YEAR
@@ -63,6 +54,8 @@ https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/ma
 
 THE LINK FOR PROBLEM 1:
 
+![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/02.%20Problem%201%20(%20Saltwater%20intrusion).JPG?raw=true)
+
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/02.%20Problem%201%20(%20Saltwater%20intrusion).JPG
 
 
@@ -75,6 +68,8 @@ https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/ma
 - Upstream countries have sought to store water in their dams
 
 THE LINK FOR PROBLEM 2:
+
+![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/03.%20Problem%202%20(%20Shortage%20of%20water).JPG?raw=true)
 
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/03.%20Problem%202%20(%20Shortage%20of%20water).JPG
 
@@ -89,10 +84,14 @@ https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/ma
 
 THE LINK OF OUR TECHNOLOGY CAN HELP " ALARM THE SALTWATER INTRUSION CONTAIN AND AUTOMATIC SWITCH FROM RIVER PUMP TO WATER TREATMENT PUMP":
 
+![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/05.%20Our%20technical%20solution.JPG?raw=true)
+
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/05.%20Our%20technical%20solution.JPG
 
 
 THE LINK OF OUR TECHNOLOGY WITH IIOT FULL SOLUTION WITH MAPLE SMART CONTROL ARCHITECTURE: 
+
+![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/07.%20MSC%20Architeture.JPG?raw=true)
 
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/07.%20MSC%20Architeture.JPG
 
@@ -113,12 +112,16 @@ https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/ma
 
 THE LINK FOR MAPLE SMART CONTROL IDEA :
 
+![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/04.Our%20ideas.JPG?raw=true)
+
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/04.Our%20ideas.JPG
 
 
 ## Demo video
 
 THE LINK FOR OUR DEMO ( VERSION 1- 2020.07.24 ) : 
+
+![alt text](https://youtu.be/jPw6tjzPEKQ?raw=true)
 
 https://youtu.be/jPw6tjzPEKQ
 
@@ -145,10 +148,14 @@ THE LINK FOR MAPLE SMART CONTROL CONTROLLER CONNECTS WITH IBM ARCHITECTURE:
 
 1) FULL CONCEPT DESIGN WITH MSC CONTROLLER - IBM SERVICE
 
+![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/08.%20MSC%20connect%20with%20IBM.JPG?raw=true)
+
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/08.%20MSC%20connect%20with%20IBM.JPG
 
 
 2) DEPLOY WITH IBM SERVICE
+
+![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/06.%20Our%20connection%20with%20IBM.JPG?raw=true)
 
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/06.%20Our%20connection%20with%20IBM.JPG
 
@@ -169,6 +176,8 @@ https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/ma
 
 4) COMPARASION WITH THE EXISTING SOLUTION AND WHY WE ATTEND THE CALL FOR CODE 2020
 
+![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/13%20-%20Comparison%20with%20Existing%20solution.JPG?raw=true)
+
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/13%20-%20Comparison%20with%20Existing%20solution.JPG
 
 
@@ -179,20 +188,29 @@ https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/ma
 
 6.1) Public view 
 
+![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/09.%20Result%20-%20Public%20View.JPG?raw=true)
+
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/09.%20Result%20-%20Public%20View.JPG
 
 
 6.2) User view
+
+
+![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/10.%20Result%20-%20User%20view.JPG?raw=true)
 
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/10.%20Result%20-%20User%20view.JPG
 
 
 6.3) Hardware development
 
+![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/11.%20Result%20-%20Hardware%20design.JPG?raw=true)
+
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/11.%20Result%20-%20Hardware%20design.JPG
 
 
 6.4) Prototype with full solution 
+
+![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/12.%20Result%20of%20Prototype.JPG?raw=true)
 
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/12.%20Result%20of%20Prototype.JPG
 
@@ -206,6 +224,8 @@ https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/ma
 ## Project roadmap
 
 OUR PILOT PRODUCT PROJECT ROADMAP LINK:
+
+![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/15.%20Road%20map.JPG?raw=true)
 
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/15.%20Road%20map.JPG
 
@@ -325,6 +345,8 @@ https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/ma
 
 
 3) CONTACT US:
+
+![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/17.%20Contact%20us.JPG?raw=true)
 
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/17.%20Contact%20us.JPG
 
