@@ -43,11 +43,13 @@ https://drive.google.com/file/d/1bVA_JYNbDdZUjP3ZsqkahsLF3cgGuxzS/view?usp=shari
 
 - Example : Can Tho City ( Viet Nam )  is nearly 100 kilometer from the sea. read 3,500 parts per thousand (ppt), normal water of less than 250 ppt.
  
-- On 2016, 600,000 people lost access to freshwater, while 160,000 hectares of paddy were destroyed and 800,000 tons of rice were lost. Financial damage from that drought hit US$237 million
+- On 2016, 600,000 people lost access to freshwater, while 160,000 hectares of paddy were destroyed and 800,000 tons of rice were lost. 
+
+- On 2016 , Financial damage from that drought hit US$237 million and now it increases more dangerous damages on 2019 - 2020
 
 https://drive.google.com/file/d/12sjwORBtbwz04SWMB63ZCi7_1HJtwn1F/view?usp=sharing
 
-3) PROBLEM 2 : ABSENCE OF FLOOD WATER AND LACK OF WATER IN HOT SEASON 
+3) PROBLEM 2 :  LACK OF WATER IN HOT SEASON 
 
 - Mekong Delta region have had to struggle with the absence of flood waters.
 
