@@ -37,7 +37,18 @@ A basic GitHub repository example for Call for Code submissions and those projec
 
 THE LINK FOR REAL WORLD PROBLEM :
 
+1) Opt 1
+
 https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/01.%20Real%20Problem.JPG
+
+2) Opt 2 
+
+![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/01.%20Real%20Problem.JPG?raw=true)
+
+3) Opt 3
+
+![Optional Text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/01.%20Real%20Problem.JPG)
+![alt text](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/01.%20Real%20Problem.JPG)
 
 
 2) PROBLEM 1 : SALTWATER INTRUSION DURING DEC – JUNE AT VIET NAM EVERY YEAR
