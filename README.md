@@ -37,7 +37,7 @@ A basic GitHub repository example for Call for Code submissions and those projec
 
 https://drive.google.com/file/d/1bVA_JYNbDdZUjP3ZsqkahsLF3cgGuxzS/view?usp=sharing
 
-![alt text](https://drive.google.com/file/d/1bVA_JYNbDdZUjP3ZsqkahsLF3cgGuxzS/view?usp=sharing)
+!(https://drive.google.com/file/d/1bVA_JYNbDdZUjP3ZsqkahsLF3cgGuxzS/view?usp=sharing)
 
 
 2) PROBLEM 1 : SALTWATER INTRUSION DURING DEC – JUNE AT VIET NAM EVERY YEAR
