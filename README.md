@@ -123,11 +123,11 @@ THE LINK FOR OUR DEMO ( VERSION 1- 2020.07.24 ) :
 
 1) Opt 1 :
 
-[![Watch the video](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/00.%20MSC%20project%20name.JPG?raw=true)](https://youtu.be/jPw6tjzPEKQ)
+[![Watch the video](https://github.com/billchuong2018/IIoT-Solution-for-Saltwater-intrusion-/blob/master/00.%20MSC%20project%20name.JPG?raw=true)](https://youtu.be/FNh0_SJSRjI)
 
 3) Opt 2: 
 
-https://youtu.be/jPw6tjzPEKQ
+https://youtu.be/FNh0_SJSRjI
 
 
 ## The architecture
