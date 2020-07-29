@@ -326,6 +326,11 @@ You can find a running system to test at
 
 OUR DEMO LINK: 
 
+1) OPT 1 : UPDATE UNTIL JULY 29, 2020  
+
+https://node-iot-msc.mybluemix.net/ui/?fbclid=IwAR0P6ISnALrebMUQPrlPUSnO1YPJG81lVkTWX-svQMfUTucznUyARTEgtzI#!/0?socketid=PfqILuXp8fdTqEbtAAAE%2F
+
+2) OPT 2 : UPDATE UNTIL JULY 26, 2020  
 
 https://node-iot-msc.mybluemix.net/ui/#!/0?socketid=PfqILuXp8fdTqEbtAAAE/
 
